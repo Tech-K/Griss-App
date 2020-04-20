@@ -4,10 +4,10 @@ module.exports = {
   ],
 
   pwa: {
-    themeColor: '#9013FE',
-    msTileColor: '#9013FE',
+    themeColor: '#9e6bff',
+    msTileColor: '#9e6bff',
     manifestOptions: {
-      background_color: '#9013FE'
+      background_color: '#9e6bff'
     },
     name: 'giss-app'
   }
