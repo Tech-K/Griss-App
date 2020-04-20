@@ -9,6 +9,6 @@ module.exports = {
     manifestOptions: {
       background_color: '#9e6bff'
     },
-    name: 'giss-app'
+    name: 'Giss App'
   }
 }
